@@ -1,6 +1,5 @@
 # prova-do-jackson-melhor-professor-do-SENAC
 
-para este projeto ajudei e tive ajuda do Matheus henrique soster em algumas partes
 
 Este projeto é um sistema de gerenciamento de projetos e tarefas em Node.js. Usuários podem criar, visualizar, editar e excluir projetos e tarefas, com cada projeto tendo várias tarefas associadas. O sistema usa JWT para autenticação, Sequelize para ORM, e bcrypt para hash de senhas. O projeto segue uma arquitetura MVC e inclui validações de campos, segurança com middleware de autenticação, e documentação das rotas da API.
 
